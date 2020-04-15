@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - PagingKit (1.11.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - PagingKit (~> 1.11.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PagingKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  PagingKit: 0f5ddbf2c742e245eeca450e9c0d1882380c3dc5
+
+PODFILE CHECKSUM: 7420447e35b736add7c47cdba3e34c36fb7ee790
+
+COCOAPODS: 1.8.4
